@@ -1,0 +1,22 @@
+HTTrack3.49-2+htsswf+htsjava launched on Mon, 15 Nov 2021 16:31:33 at https://geniusdevs.com/themeforest/icard/icard/index2.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://geniusdevs.com/themeforest/icard/icard/index2.html -O1 "C:\Users\PHP\Desktop\Cloned portfolios\White I card" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+16:32:26	Error: 	"Not Found" (404) at link https://geniusdevs.com/themeforest/icard/icard/assets/css/owl.video.play.png (from https://geniusdevs.com/themeforest/icard/icard/assets/css/owl.carousel.min.css)
+16:32:26	Error: 	"Not Found" (404) at link https://geniusdevs.com/themeforest/icard/icard/ajax/assets/images/s1.jpg (from https://geniusdevs.com/themeforest/icard/icard/ajax/service1.html)
+16:32:26	Error: 	"Not Found" (404) at link https://geniusdevs.com/themeforest/icard/icard/ajax/assets/images/s2.jpg (from https://geniusdevs.com/themeforest/icard/icard/ajax/service2.html)
+16:32:26	Error: 	"Not Found" (404) at link https://geniusdevs.com/themeforest/icard/icard/ajax/assets/images/s3.jpg (from https://geniusdevs.com/themeforest/icard/icard/ajax/service3.html)
+16:32:26	Error: 	"Not Found" (404) at link https://geniusdevs.com/themeforest/icard/icard/ajax/assets/images/s4.jpg (from https://geniusdevs.com/themeforest/icard/icard/ajax/service4.html)
+16:32:26	Error: 	"Not Found" (404) at link https://geniusdevs.com/themeforest/icard/icard/ajax/assets/images/s5.jpg (from https://geniusdevs.com/themeforest/icard/icard/ajax/service5.html)
+16:32:26	Error: 	"Not Found" (404) at link https://geniusdevs.com/themeforest/icard/icard/ajax/assets/images/s6.jpg (from https://geniusdevs.com/themeforest/icard/icard/ajax/service6.html)
+16:32:26	Error: 	"Not Found" (404) at link https://geniusdevs.com/themeforest/icard/icard/ajax/assets/images/1.jpg (from https://geniusdevs.com/themeforest/icard/icard/ajax/portfolio-ajax-project-1.html)
+16:32:26	Error: 	"Not Found" (404) at link https://geniusdevs.com/themeforest/icard/icard/ajax/assets/images/2.jpg (from https://geniusdevs.com/themeforest/icard/icard/ajax/portfolio-ajax-project-1.html)
+16:32:26	Error: 	"Not Found" (404) at link https://geniusdevs.com/themeforest/icard/icard/ajax/assets/images/4.jpg (from https://geniusdevs.com/themeforest/icard/icard/ajax/portfolio-ajax-project-1.html)
+16:32:26	Error: 	"Not Found" (404) at link https://geniusdevs.com/themeforest/icard/icard/ajax/assets/images/3.jpg (from https://geniusdevs.com/themeforest/icard/icard/ajax/portfolio-ajax-project-3.html)
+
+HTTrack Website Copier/3.49-2 mirror complete in 53 seconds : 81 links scanned, 69 files written (5360850 bytes overall) [3816115 bytes received at 72002 bytes/sec], 2373415 bytes transferred using HTTP compression in 28 files, ratio 33%, 11.5 requests per connection
+(11 errors, 0 warnings, 0 messages)
